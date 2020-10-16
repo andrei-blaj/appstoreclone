@@ -1,0 +1,281 @@
+{ "cardTiles": [
+        {
+            "type": "appOfTheDay",
+            "apps": [
+                { 
+                    "name": "Monument Valley",
+                    "tagline": "A Quest for Forgiveness",
+                    "iconName": "app_of_the_day",
+                    "cost": "$3.99",
+                    "category": "puzzle",
+                    "hasInAppPurchase": "false",
+                    "alreadyPurchased": "false",
+                    "onDevice": "false"
+                }
+            ],
+            "backgroundImage": "card3",
+            "backgroundType": "dark"
+        },
+        {
+            "type": "appCollection",
+            "title": "Watch Entertainment You Love",
+            "subtitle": "The Daily List",
+            "apps": [
+                {
+                    "name": "TikTok - Trends Start Here",
+                    "tagline": "Videos, Music & Live Streams",
+                    "iconName": "entertainment_1",
+                    "cost": "free",
+                    "category": "entertainment",
+                    "hasInAppPurchase": "true",
+                    "alreadyPurchased": "false",
+                    "onDevice": "false"
+                },
+                {
+                    "name": "Netflix",
+                    "tagline": "Start Watching",
+                    "iconName": "entertainment_2",
+                    "cost": "free",
+                    "category": "entertainment",
+                    "hasInAppPurchase": "true",
+                    "alreadyPurchased": "true",
+                    "onDevice": "true"
+                },
+                {
+                    "name": "Hulu: Stream movies & TV shows",
+                    "tagline": "Browse films & watch series",
+                    "iconName": "entertainment_3",
+                    "cost": "free",
+                    "category": "entertainment",
+                    "hasInAppPurchase": "true",
+                    "alreadyPurchased": "false",
+                    "onDevice": "false"
+                },
+                {
+                    "name": "Amazon Prime Video",
+                    "tagline": "Originals, movies, TV, sports",
+                    "iconName": "entertainment_4",
+                    "cost": "free",
+                    "category": "entertainment",
+                    "hasInAppPurchase": "true",
+                    "alreadyPurchased": "true",
+                    "onDevice": "false"
+                },
+                {
+                    "name": "Peacock TV",
+                    "tagline": "Best of Streaming. Best of TV.",
+                    "iconName": "entertainment_5",
+                    "cost": "free",
+                    "category": "entertainment",
+                    "hasInAppPurchase": "true",
+                    "alreadyPurchased": "true",
+                    "onDevice": "true"
+                },
+                {
+                    "name": "Disney+",
+                    "tagline": "Unlimited entertainment",
+                    "iconName": "entertainment_6",
+                    "cost": "free",
+                    "category": "entertainment",
+                    "hasInAppPurchase": "true",
+                    "alreadyPurchased": "true",
+                    "onDevice": "true"
+                },
+                {
+                    "name": "HBO Max: Stream TV & Movies",
+                    "tagline": "Watch entertainment you love",
+                    "iconName": "entertainment_7",
+                    "cost": "free",
+                    "category": "entertainment",
+                    "hasInAppPurchase": "false",
+                    "alreadyPurchased": "false",
+                    "onDevice": "false"
+                }
+            ]
+        },
+        {
+            "type": "appArticle",
+            "title": "The Incredible, Adorable Sloth Bat",
+            "subtitle": "Behind the Scenes",
+            "description": "Tap to read how one of Toca Life: Pets' cutest creatures came to life.",
+            "apps": [
+                {
+                    "name": "Toca Life: Pets",
+                    "tagline": "Meet friends with paws & claws",
+                    "iconName": "tocaLifeIcon",
+                    "cost": "$2.99",
+                    "category": "games",
+                    "hasInAppPurchase": "false",
+                    "alreadyPurchased": "false",
+                    "onDevice": "false"
+                }
+            ],
+            "backgroundImage": "card4",
+            "backgroundType": "dark"
+        },
+        {
+            "type": "appCollection",
+            "title": "Bring out the creator in you",
+            "subtitle": "Our Favorites",
+            "apps": [
+                {
+                    "name": "Instagram",
+                    "tagline": "Photo & Video",
+                    "iconName": "photo_video_1",
+                    "cost": "free",
+                    "category": "photo & video",
+                    "hasInAppPurchase": "true",
+                    "alreadyPurchased": "true",
+                    "onDevice": "true"
+                },
+                {
+                    "name": "Youtube: Watch, Listen, Stream",
+                    "tagline": "Videos, Music and Live Streams",
+                    "iconName": "photo_video_2",
+                    "cost": "free",
+                    "category": "photo & video",
+                    "hasInAppPurchase": "true",
+                    "alreadyPurchased": "true",
+                    "onDevice": "true"
+                },
+                {
+                    "name": "Snapchat",
+                    "tagline": "Share the moment",
+                    "iconName": "photo_video_3",
+                    "cost": "free",
+                    "category": "photo & video",
+                    "hasInAppPurchase": "true",
+                    "alreadyPurchased": "true",
+                    "onDevice": "false"
+                },
+                {
+                    "name": "Twitch: Live Game Streaming",
+                    "tagline": "Watch Fortnite, PUBG & IRL TV",
+                    "iconName": "photo_video_4",
+                    "cost": "free",
+                    "category": "photo & video",
+                    "hasInAppPurchase": "true",
+                    "alreadyPurchased": "false",
+                    "onDevice": "false"
+                },
+                {
+                    "name": "Google Photos",
+                    "tagline": "Smart Photo and Video Storage",
+                    "iconName": "photo_video_5",
+                    "cost": "free",
+                    "category": "photo & video",
+                    "hasInAppPurchase": "true",
+                    "alreadyPurchased": "true",
+                    "onDevice": "true"
+                },
+                {
+                    "name": "VSCO: Photo & Video Editor",
+                    "tagline": "Creative Tools & Video Stories",
+                    "iconName": "photo_video_6",
+                    "cost": "free",
+                    "category": "photo & video",
+                    "hasInAppPurchase": "true",
+                    "alreadyPurchased": "true",
+                    "onDevice": "true"
+                },
+                {
+                    "name": "Adobe Lighroom Photo Editor",
+                    "tagline": "Photography Editing & Presets",
+                    "iconName": "photo_video_7",
+                    "cost": "free",
+                    "category": "photo & video",
+                    "hasInAppPurchase": "true",
+                    "alreadyPurchased": "false",
+                    "onDevice": "false"
+                }
+            ]
+        },
+        {
+            "type": "appArticle",
+            "title": "Travel more for less.",
+            "subtitle": "Major Update",
+            "description": "Tell us about the trips you want to take, and we'll tell you when or where to go.",
+            "apps": [
+                {
+                    "name": "Hitlist",
+                    "tagline": "Cheap flights, airline tickets",
+                    "iconName": "article_1",
+                    "cost": "free",
+                    "category": "travel",
+                    "hasInAppPurchase": "true",
+                    "alreadyPurchased": "false",
+                    "onDevice": "false"
+                }
+            ],
+            "backgroundImage": "card1",
+            "backgroundType": "dark"
+        },
+        {
+            "type": "appCollection",
+            "title": "Get in touch with your friends",
+            "subtitle": "Featured",
+            "apps": [
+                {
+                    "name": "Discord - Talk, Chat, Hang Out",
+                    "tagline": "Friends, Communities & Gaming",
+                    "iconName": "social_1",
+                    "cost": "free",
+                    "category": "social networking",
+                    "hasInAppPurchase": "true",
+                    "alreadyPurchased": "true",
+                    "onDevice": "false"
+                },
+                {
+                    "name": "Facebook",
+                    "tagline": "Social Networking",
+                    "iconName": "social_2",
+                    "cost": "free",
+                    "category": "social networking",
+                    "hasInAppPurchase": "true",
+                    "alreadyPurchased": "true",
+                    "onDevice": "false"
+                },
+                {
+                    "name": "Messenger",
+                    "tagline": "Text, audio and video calls",
+                    "iconName": "social_3",
+                    "cost": "free",
+                    "category": "social networking",
+                    "hasInAppPurchase": "false",
+                    "alreadyPurchased": "true",
+                    "onDevice": "true"
+                },
+                {
+                    "name": "WhatsApp Messenger",
+                    "tagline": "Simple. Reliable. Secure.",
+                    "iconName": "social_4",
+                    "cost": "free",
+                    "category": "social networking",
+                    "hasInAppPurchase": "false",
+                    "alreadyPurchased": "true",
+                    "onDevice": "true"
+                },
+                {
+                    "name": "Google Duo",
+                    "tagline": "High Quality Video Calling App",
+                    "iconName": "social_5",
+                    "cost": "free",
+                    "category": "social networking",
+                    "hasInAppPurchase": "false",
+                    "alreadyPurchased": "false",
+                    "onDevice": "false"
+                },
+                {
+                    "name": "Telegram Messenger",
+                    "tagline": "Fast. Secure. Powerful.",
+                    "iconName": "social_6",
+                    "cost": "free",
+                    "category": "social networking",
+                    "hasInAppPurchase": "false",
+                    "alreadyPurchased": "true",
+                    "onDevice": "true"
+                }
+            ]
+        },
+    ]
+}
