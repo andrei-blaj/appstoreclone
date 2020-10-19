@@ -37,7 +37,7 @@ This repository contains two different Xcode projects.
 
 ## Tutorial Video
 
-> Coming Soon
+> Watch on [Youtube](https://youtu.be/1j7hsEmylg0).
 
 ## Support
 
